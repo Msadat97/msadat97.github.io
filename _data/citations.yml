@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2025-12-17'
+  last_updated: '2025-12-22'
 papers:
   VRE-ouwAAAAJ:2osOgNQ5qMEC:
-    citations: 88
+    citations: 89
     title: 'CADS: Unleashing the Diversity of Diffusion Models through Condition-Annealed Sampling'
     year: '2023'
   VRE-ouwAAAAJ:3fE2CSJIrl8C:
@@ -18,7 +18,7 @@ papers:
     title: Token Perturbation Guidance for Diffusion Models
     year: '2025'
   VRE-ouwAAAAJ:LkGwnXOMwfcC:
-    citations: 31
+    citations: 32
     title: 'No training, no problem: Rethinking classifier-free guidance for diffusion models'
     year: '2024'
   VRE-ouwAAAAJ:Se3iqnhoufwC:
@@ -34,7 +34,7 @@ papers:
     title: Factorized motion diffusion for precise and character-agnostic motion inbetweening
     year: '2024'
   VRE-ouwAAAAJ:W7OEmFMy1HYC:
-    citations: 19
+    citations: 20
     title: 'Litevae: Lightweight and efficient variational autoencoders for latent diffusion models'
     year: '2024'
   VRE-ouwAAAAJ:YOwf2qJgpHMC:
