@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-04'
 papers:
   VRE-ouwAAAAJ:2osOgNQ5qMEC:
     citations: 94
@@ -30,11 +30,11 @@ papers:
     title: 'HiGS: History-Guided Sampling for Plug-and-Play Enhancement of Diffusion Models'
     year: '2025'
   VRE-ouwAAAAJ:UebtZRa9Y70C:
-    citations: 9
+    citations: 11
     title: Factorized motion diffusion for precise and character-agnostic motion inbetweening
     year: '2024'
   VRE-ouwAAAAJ:W7OEmFMy1HYC:
-    citations: 20
+    citations: 21
     title: 'Litevae: Lightweight and efficient variational autoencoders for latent diffusion models'
     year: '2024'
   VRE-ouwAAAAJ:YOwf2qJgpHMC:
@@ -54,6 +54,6 @@ papers:
     title: Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement
     year: '2025'
   VRE-ouwAAAAJ:kNdYIx-mwKoC:
-    citations: 2
+    citations: 3
     title: 'HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling'
     year: '2025'
