@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-18'
 papers:
   VRE-ouwAAAAJ:2osOgNQ5qMEC:
     citations: 96
@@ -7,7 +7,11 @@ papers:
     year: '2023'
   VRE-ouwAAAAJ:3fE2CSJIrl8C:
     citations: 3
-    title: Guidance in the Frequency Domain Enables High-Fidelity Sampling at Low CFG Scales
+    title: Guidance in the frequency domain enables high-fidelity sampling at low cfg scales
+    year: '2025'
+  VRE-ouwAAAAJ:4TOpqqG69KYC:
+    citations: 0
+    title: Regressor-Guided Generative Image Editing Balances User Emotions to Reduce Time Spent Online
     year: '2025'
   VRE-ouwAAAAJ:5nxA0vEk-isC:
     citations: 3
@@ -15,14 +19,14 @@ papers:
     year: '2025'
   VRE-ouwAAAAJ:8k81kl-MbHgC:
     citations: 4
-    title: Token Perturbation Guidance for Diffusion Models
+    title: Token perturbation guidance for diffusion models
     year: '2025'
   VRE-ouwAAAAJ:LkGwnXOMwfcC:
     citations: 38
     title: 'No training, no problem: Rethinking classifier-free guidance for diffusion models'
     year: '2024'
   VRE-ouwAAAAJ:Se3iqnhoufwC:
-    citations: 39
+    citations: 44
     title: Eliminating oversaturation and artifacts of high guidance scales in diffusion models
     year: '2024'
   VRE-ouwAAAAJ:ULOm3_A8WrAC:
@@ -34,7 +38,7 @@ papers:
     title: Factorized motion diffusion for precise and character-agnostic motion inbetweening
     year: '2024'
   VRE-ouwAAAAJ:W7OEmFMy1HYC:
-    citations: 21
+    citations: 22
     title: 'Litevae: Lightweight and efficient variational autoencoders for latent diffusion models'
     year: '2024'
   VRE-ouwAAAAJ:YOwf2qJgpHMC:
