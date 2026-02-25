@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-25'
 papers:
   VRE-ouwAAAAJ:2osOgNQ5qMEC:
-    citations: 96
+    citations: 98
     title: 'CADS: Unleashing the Diversity of Diffusion Models through Condition-Annealed Sampling'
     year: '2023'
   VRE-ouwAAAAJ:3fE2CSJIrl8C:
@@ -22,11 +22,11 @@ papers:
     title: Token perturbation guidance for diffusion models
     year: '2025'
   VRE-ouwAAAAJ:LkGwnXOMwfcC:
-    citations: 38
+    citations: 39
     title: 'No training, no problem: Rethinking classifier-free guidance for diffusion models'
     year: '2024'
   VRE-ouwAAAAJ:Se3iqnhoufwC:
-    citations: 44
+    citations: 47
     title: Eliminating oversaturation and artifacts of high guidance scales in diffusion models
     year: '2024'
   VRE-ouwAAAAJ:ULOm3_A8WrAC:
@@ -58,6 +58,6 @@ papers:
     title: Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement
     year: '2025'
   VRE-ouwAAAAJ:kNdYIx-mwKoC:
-    citations: 3
+    citations: 4
     title: 'HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling'
     year: '2025'
