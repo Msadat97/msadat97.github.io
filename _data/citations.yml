@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-15'
 papers:
   VRE-ouwAAAAJ:2osOgNQ5qMEC:
-    citations: 106
+    citations: 107
     title: 'CADS: Unleashing the Diversity of Diffusion Models through Condition-Annealed Sampling'
     year: '2023'
   VRE-ouwAAAAJ:3fE2CSJIrl8C:
@@ -18,15 +18,15 @@ papers:
     title: Efficient Distillation of Classifier-Free Guidance using Adapters
     year: '2025'
   VRE-ouwAAAAJ:8k81kl-MbHgC:
-    citations: 8
+    citations: 9
     title: Token perturbation guidance for diffusion models
     year: '2025'
   VRE-ouwAAAAJ:LkGwnXOMwfcC:
-    citations: 47
+    citations: 48
     title: 'No training, no problem: Rethinking classifier-free guidance for diffusion models'
     year: '2024'
   VRE-ouwAAAAJ:Se3iqnhoufwC:
-    citations: 57
+    citations: 58
     title: Eliminating oversaturation and artifacts of high guidance scales in diffusion models
     year: '2024'
   VRE-ouwAAAAJ:ULOm3_A8WrAC:
