@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-22'
 papers:
   VRE-ouwAAAAJ:2osOgNQ5qMEC:
-    citations: 109
+    citations: 115
     title: 'CADS: Unleashing the Diversity of Diffusion Models through Condition-Annealed Sampling'
     year: '2023'
   VRE-ouwAAAAJ:3fE2CSJIrl8C:
-    citations: 4
+    citations: 5
     title: Guidance in the frequency domain enables high-fidelity sampling at low cfg scales
     year: '2025'
   VRE-ouwAAAAJ:4TOpqqG69KYC:
@@ -14,19 +14,23 @@ papers:
     title: Regressor-Guided Generative Image Editing Balances User Emotions to Reduce Time Spent Online
     year: '2025'
   VRE-ouwAAAAJ:5nxA0vEk-isC:
-    citations: 3
+    citations: 4
     title: Efficient Distillation of Classifier-Free Guidance using Adapters
     year: '2025'
   VRE-ouwAAAAJ:8k81kl-MbHgC:
-    citations: 9
+    citations: 10
     title: Token perturbation guidance for diffusion models
-    year: '2025'
+    year: '2026'
   VRE-ouwAAAAJ:LkGwnXOMwfcC:
-    citations: 49
+    citations: 52
     title: 'No training, no problem: Rethinking classifier-free guidance for diffusion models'
-    year: '2024'
+    year: '2025'
+  VRE-ouwAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: Elimination of over-saturation effects of generative models
+    year: '2026'
   VRE-ouwAAAAJ:Se3iqnhoufwC:
-    citations: 58
+    citations: 63
     title: Eliminating oversaturation and artifacts of high guidance scales in diffusion models
     year: '2024'
   VRE-ouwAAAAJ:ULOm3_A8WrAC:
@@ -34,11 +38,11 @@ papers:
     title: 'HiGS: History-Guided Sampling for Plug-and-Play Enhancement of Diffusion Models'
     year: '2025'
   VRE-ouwAAAAJ:UebtZRa9Y70C:
-    citations: 13
+    citations: 14
     title: Factorized motion diffusion for precise and character-agnostic motion inbetweening
     year: '2024'
   VRE-ouwAAAAJ:W7OEmFMy1HYC:
-    citations: 24
+    citations: 26
     title: 'Litevae: Lightweight and efficient variational autoencoders for latent diffusion models'
     year: '2024'
   VRE-ouwAAAAJ:YOwf2qJgpHMC:
