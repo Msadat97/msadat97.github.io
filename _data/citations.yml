@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-25'
 papers:
   VRE-ouwAAAAJ:2osOgNQ5qMEC:
     citations: 115
@@ -22,7 +22,7 @@ papers:
     title: Token perturbation guidance for diffusion models
     year: '2026'
   VRE-ouwAAAAJ:LkGwnXOMwfcC:
-    citations: 52
+    citations: 54
     title: 'No training, no problem: Rethinking classifier-free guidance for diffusion models'
     year: '2025'
   VRE-ouwAAAAJ:M3ejUd6NZC8C:
@@ -30,7 +30,7 @@ papers:
     title: Elimination of over-saturation effects of generative models
     year: '2026'
   VRE-ouwAAAAJ:Se3iqnhoufwC:
-    citations: 63
+    citations: 64
     title: Eliminating oversaturation and artifacts of high guidance scales in diffusion models
     year: '2024'
   VRE-ouwAAAAJ:ULOm3_A8WrAC:
@@ -38,7 +38,7 @@ papers:
     title: 'HiGS: History-Guided Sampling for Plug-and-Play Enhancement of Diffusion Models'
     year: '2025'
   VRE-ouwAAAAJ:UebtZRa9Y70C:
-    citations: 14
+    citations: 15
     title: Factorized motion diffusion for precise and character-agnostic motion inbetweening
     year: '2024'
   VRE-ouwAAAAJ:W7OEmFMy1HYC:
@@ -62,6 +62,6 @@ papers:
     title: Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement
     year: '2025'
   VRE-ouwAAAAJ:kNdYIx-mwKoC:
-    citations: 5
+    citations: 6
     title: 'HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling'
     year: '2025'
