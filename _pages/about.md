@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student at <a href='https://studios.disneyresearch.com/'>DisneyResearch|Studios</a> & <a href='https://ethz.ch/en.html'>ETH Zurich</a>
+subtitle: AI Scientist III at <a href='https://proximabio.com/'>Proxima Bio</a>
 
 profile:
   align: right
@@ -26,11 +26,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi there! I am a joint Ph.D. student between DisneyResearch\|Studios and ETH Zurich supervised by <a href='https://ait.ethz.ch/people/hilliges'>Prof. Otmar Hilliges</a>, <a href='https://da.inf.ethz.ch/people/ThomasHofmann/'>Prof. Thomas Hofmann</a>, and <a href='https://studios.disneyresearch.com/people/romann-weber/'>Dr. Romann Weber</a>.
+Hi there! I am an AI Scientist III at <a href='https://proximabio.com/'>Proxima Bio</a>, where I work on AI for drug discovery. I focus on developing foundation models for protein-protein interactions.
 
-I specialize in diffusion models for image and video generation. My research focuses on developing novel sampling and guidance techniques to improve the quality, diversity, and efficiency of diffusion models. More broadly, I am interested in how diffusion models can be trained and tuned for visual content creation, as well as their role in creative applications and world modeling.
+In May 2026, I completed my Ph.D. in a joint program between <a href='https://studios.disneyresearch.com/'>DisneyResearch\|Studios</a> and <a href='https://ethz.ch/en.html'>ETH Zurich</a>. I was supervised by <a href='https://ait.ethz.ch/people/hilliges'>Prof. Otmar Hilliges</a>, <a href='https://da.inf.ethz.ch/people/ThomasHofmann/'>Prof. Thomas Hofmann</a>, and <a href='https://studios.disneyresearch.com/people/romann-weber/'>Dr. Romann Weber</a>.
 
-Prior to my Ph.D., I obtained my master’s degree in Computer Science from ETH Zurich and my bachelor’s degree in Electrical Engineering from Sharif University of Technology.
+During my Ph.D., I specialized in diffusion models for image and video generation. My research focused on new sampling and guidance techniques that improve the quality, diversity, and efficiency of diffusion models. More broadly, I am interested in how diffusion models can be trained and tuned for visual content creation, as well as their role in creative applications and world modeling.
+
+Before my Ph.D., I obtained my master’s degree in Computer Science from ETH Zurich and my bachelor’s degree in Electrical Engineering from Sharif University of Technology.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

@@ -197,6 +197,7 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
+  margin-bottom: 1.5rem;
 
   .more-info {
     margin-bottom: 5px;
@@ -452,6 +453,19 @@ ul.task-list input[type="checkbox"] {
 
   .contact-note {
     font-size: 0.8rem;
+  }
+}
+
+// Social icons under the profile photo on the about page
+.social.profile-social {
+  margin-top: 0.75rem;
+
+  .contact-icons {
+    font-size: 1.75rem;
+
+    a {
+      margin: 0 0.3rem;
+    }
   }
 }
 
