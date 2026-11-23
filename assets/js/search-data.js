@@ -387,6 +387,12 @@ ninja.data = [{
             },},{id: "news-i-started-my-ph-d-at-disneyresarch-studios-and-eth-zurich",
           title: 'I started my Ph.D. at DisneyResarch|Studios and ETH Zurich.',
           description: "",
+          section: "News",},{id: "news-i-successfully-defended-my-ph-d-thesis",
+          title: 'I successfully defended my Ph.D. thesis.',
+          description: "",
+          section: "News",},{id: "news-i-started-a-new-position-as-ai-scientist-iii-at-proxima-bio",
+          title: 'I started a new position as AI Scientist III at Proxima Bio.',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -444,7 +450,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%73%73%61%64%61%74@%65%74%68%7A.%63%68", "_blank");
+          window.open("mailto:%6D%6F%72%74%65%7A%61@%76%61%6E%74.%61%69", "_blank");
         },
       },{
         id: 'social-linkedin',
